@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm José Alves</h1>
 <h3 align="center">I am a programming student. I work with some python projects and some web projects (with html, css and JavaScript).</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josea4848&show_icons=true&hide=star,prs)](https://github.com/Josea4848/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josea4848&theme=gotham&show_icons=true&hide=star,prs)](https://github.com/Josea4848/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
